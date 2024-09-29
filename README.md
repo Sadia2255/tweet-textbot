@@ -1,4 +1,4 @@
-# Twitter TextBot Project
+# Tweet Textbot Project
 
 ## Overview
 This is a machine learning application that reads tweets from CSV files, processes the data, and generates new tweets using a Markov Chain model. 
