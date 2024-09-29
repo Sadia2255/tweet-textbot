@@ -19,4 +19,4 @@ The generated tweets are based on the patterns found in the original tweet data,
    Using the trained Markov Chain, the program generates new tweets by selecting a starting word and then building a sequence of words based on the learned probabilities from the training data.
 
 5. **Output**:
-   The generated tweets are printed to the console, simulating somewhat realistic tweets based on the input data.
+   The generated tweets are printed to the console, simulating realistic tweets based on the input data.
